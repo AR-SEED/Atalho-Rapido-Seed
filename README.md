@@ -8,7 +8,7 @@
 
 <img src="https://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/styles/escala_1140_largura_/public/imagem/2022-03/brasao_cpmpr270.webp?itok=cCQQHhKV" alt="CECM 11 DE OUTURO">
 
-> Projeto de site do 'CECM 11 DE OUTUBRO' residido no paraná, feito por 5 estudantes.
+> Projeto de site do 'CECM 11 DE OUTUBRO' residido no paraná, inicialmente feito por 5 estudantes.
 
 ### Ajustes e melhorias
 
